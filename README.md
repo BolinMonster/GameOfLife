@@ -3,5 +3,5 @@
 - Touche espace le dessin de la génération
 - Tutoriel suivit : https://www.youtube.com/watch?v=cRWg2SWuXtM
 
-# Exéction
+# Exécution
 ```python gameoflife.py```
