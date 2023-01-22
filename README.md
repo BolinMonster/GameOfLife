@@ -1,4 +1,4 @@
 # GameOfLife
-- Test python by implementing Game of Life created by John Conway
-- Usage : Draw and press space to activate the generation
-- Tutorial following : https://www.youtube.com/watch?v=cRWg2SWuXtM
+- Test du langage Python en implémentant le jeu de la vie crée par John Conway
+- Touche espace le dessin de la génération
+- Tutoriel suivit : https://www.youtube.com/watch?v=cRWg2SWuXtM
